@@ -34,7 +34,7 @@ int blast=0;
         blast=soundPool.load(this,R.raw.saffron_games,1);
 
         //*************************step2***********************
-        mediaPlayer1=MediaPlayer.create(this,R.raw.backgroundmusic);
+      //  mediaPlayer1=MediaPlayer.create(this,R.raw.backgroundmusic);
         mediaPlayer2=MediaPlayer.create(this,R.raw.deva_shree_ganesha);
         mediaPlayer3=MediaPlayer.create(this,R.raw.x_gonna_give_it);
 
